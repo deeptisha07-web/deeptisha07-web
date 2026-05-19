@@ -58,7 +58,7 @@
 ![MSTest](https://img.shields.io/badge/MSTest-512BD4?style=flat&logo=dotnet&logoColor=white)
 
 ## Featured Project
-🔹 [Employee Leave Management API](https://github.com/deeptishahi-dev/LeaveManagementAPI) — REST API with JWT Auth, Role-based Access Control, built with ASP.NET Core 9
+🔹 [Employee Leave Management API](https://github.com/deeptisha07-web/LeaveManagementAPI) — REST API with JWT Auth, Role-based Access Control, built with ASP.NET Core 9
 
 ## Currently
 - 🔨 Building projects to sharpen my .NET Core skills
