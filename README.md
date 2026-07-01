@@ -1,14 +1,14 @@
 # Hi, I'm Deepti Shahi 👋
 
-🚀 Backend Developer with 5+ years of experience in .NET and C#
+🚀Backend Developer with 5+ years of experience in .NET/C#, now expanding into Java & Spring Boot
 
 ## About Me
 - 💼 5+ years of enterprise experience at **Tata Consultancy Services**
 - ✈️ Worked on real projects for **Travelport** and **United Airlines**
-- 🔧 Specialized in **ASP.NET Core · C# · REST APIs · SQL Server**
-- 🌱 Currently upskilling in **Microservices · Azure · Clean Architecture**
+- 🔧 Specialized in **ASP.NET Core · C# · Java · Spring Boot · REST APIs · SQL Server**
+- 🌱 Currently upskilling in **Java 17 · Spring Boot · Microservices · Clean Architecture**
 - 📍 Based in **Delhi NCR** — Open to Remote & Hybrid roles
-- 💬 Ask me about **.NET, REST APIs, JWT Authentication, Entity Framework**
+- 💬 Ask me about **.NET, Java, REST APIs, JWT Authentication, Entity Framework**
 
 ## Tech Stack
 
@@ -17,6 +17,8 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-009688?style=flat&logo=fastapi&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
@@ -28,6 +30,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat&logo=dotnet&logoColor=white)
+![H2](https://img.shields.io/badge/H2%20Database-0000BB?style=flat&logo=h2&logoColor=white)
 
 **Architecture & Patterns**
 
@@ -48,6 +51,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white)
@@ -57,11 +61,13 @@
 ![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![MSTest](https://img.shields.io/badge/MSTest-512BD4?style=flat&logo=dotnet&logoColor=white)
 
-## Featured Project
-🔹 [Employee Leave Management API](https://github.com/deeptisha07-web/LeaveManagementAPI) — REST API with JWT Auth, Role-based Access Control, built with ASP.NET Core 9
+## Featured Projects
+🔹 [Employee Leave Management API](https://github.com/deeptisha07-web/LeaveManagementAPI) — REST API with JWT Auth, Role-  based Access Control, built with ASP.NET Core9
+
+🔹 [Library Management API](https://github.com/deeptisha07-web/library-management-api) — REST API for library book management, built with Java 17 and Spring Boot
 
 ## Currently
-- 🔨 Building projects to sharpen my .NET Core skills
+- 🔨 Building projects to sharpen my .NET Core and Java/Spring Boot skills
 - 📚 Learning Azure fundamentals and microservices architecture
 - 🤝 Open to backend developer opportunities
 
